@@ -1,0 +1,14 @@
+
+[package]
+    trusted = 0
+    archiveSubdir = "kit-exts-project1-1.0/exts/company.hello.world1"
+    archivePath = "https://github.com/mateamilloshi/kit-exts-project1/archive/refs/tags/v1.0.zip"
+    repository = "https://github.com/mateamilloshi/kit-exts-project1/tree/v1.0"
+    githubRelease = "https://github.com/mateamilloshi/kit-exts-project1/releases/tag/v1.0"
+
+    [package.authors]
+        0 = "https://github.com/mateamilloshi"
+
+    [package.publish]
+        date = 1698412509
+        buildNumber = ""
